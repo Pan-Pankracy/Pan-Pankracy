@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pan-Pankracy
-- 👀 I’m interested in testing.
-- 🌱 I’m currently learning the practical side of manual testing and starting my adventure with automation testing.
-- 💞️ I’m looking to collaborate on quality assurance.
+- 👀 I’m interested in Quality Assurance, Test Automation and programming.
+- 🌱 I’m currently learning programming in Javascript and Python as well as automating test scripts in Playwright.
+- 💞️ I’m looking to collaborate on test automation projects.
 - 📫 How to reach me : christian.grzeszczuk@outlook.com
 
 <!---
